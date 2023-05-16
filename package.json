@@ -1,0 +1,21 @@
+{
+  "name": "damv",
+  "version": "1.0.0",
+  "description": "damv proje",
+  "main": "app.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "orkhan kazim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
